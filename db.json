@@ -1,0 +1,37 @@
+{
+	"people": [{
+			"name": "Paweł Krawczyk",
+			"polish_name": "Paweł Krawczyk",
+			"position": "Team Leader Senior Software Developer",
+			"location": "5.63",
+			"picture": "pkrawczyk.jpg",
+			"internal_phone": "549",
+			"mobile": "",
+			"email": "pkrawczyk@objectivity.co.uk",
+			"tribe": "Morrisons Tribe",
+			"subtribe": "",
+			"main_project": "[Morrisons] Price Integrity",
+			"guild": "Development Guild",
+			"subguild": "Mobile",
+			"office": "PL",
+			"sex": "M"
+		},
+		{
+			"name": "Piotr Nowak",
+			"polish_name": "Piotr Nowak",
+			"position": "Senior Software Developer",
+			"location": "5.63",
+			"picture": "",
+			"internal_phone": "666",
+			"mobile": "666666666",
+			"email": "pnowak@objectivity.co.uk",
+			"tribe": "Morrisons Tribe",
+			"subtribe": "",
+			"main_project": "[Morrisons] Price Integrity",
+			"guild": "Development Guild",
+			"subguild": "Mobile",
+			"office": "PL",
+			"sex": "M"
+		}
+	]
+}
