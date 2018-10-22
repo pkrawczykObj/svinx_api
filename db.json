@@ -1,10 +1,10 @@
 {
-	"people": [{
+	"team": [{
 			"name": "Paweł Szewczyk",
 			"polishName": "Paweł Szewczyk",
 			"position": "Team Leader Senior Software Developer",
 			"location": "5.63",
-			"picture": "pkrawczyk.jpg",
+			"picture": "https://d1mx3nrmmy2zfe.cloudfront.net/952x520/59217716281bc.jpg",
 			"internalPhone": "549",
 			"mobile": "",
 			"email": "pkrawczyk@objectivity.co.uk",
@@ -21,7 +21,7 @@
 			"polishName": "Piotr Nowak",
 			"position": "Senior Software Developer",
 			"location": "5.63",
-			"picture": "",
+			"picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD-NktktswC4-Eax-YFmxmqjoK6g4_KvEF0V0SH4jctxmoJF_tLg",
 			"internalPhone": "666",
 			"mobile": "666666666",
 			"email": "pnowak@objectivity.co.uk",
@@ -38,7 +38,7 @@
 			"polishName": "Tomasz Kowal",
 			"position": "Junior Software Developer",
 			"location": "5.65",
-			"picture": "",
+			"picture": "https://i.ytimg.com/vi/MfrZ2C5YS58/maxresdefault.jpg",
 			"internalPhone": "666",
 			"mobile": "666666666",
 			"email": "tkowal@objectivity.co.uk",
